@@ -1,0 +1,22 @@
+/* I am challenged with the CSS portion of this exercise. I think I liked practicing in Sublime, but I'm not sure how to tie it all together. */
+body {
+  font-family: Times New Roman; text-align: center; font-size: 1.5em; color: green;
+}
+.notes {
+	background-color: lightblue;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px auto;
+}
+h1 {
+  text-align: center; font-family: Courier; font-size: 18px; color: blue;
+}
+h2 {font-size: 18px; text-align: center; color: blue;
+} 
+.points {
+	background-color: orange;
+	border-radius: 5px;
+	color: red;
+	padding: 5px;
+	margin: 10px auto;
+}/*While it doesn't look all that pretty, I wanted to play around with fonts and colors to see how they worked. */
